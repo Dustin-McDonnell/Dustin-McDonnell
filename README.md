@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dustin McDonnell.
 - 👀 I’m interested in expanding my skillset.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning JAVA and Python.
 - 💞️ I’m looking to collaborate on anything that I can be helpful with.
 - 📫 If you need me for anything just shoot me a message.
 

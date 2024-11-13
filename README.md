@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Dustin McDonnell.
-- 👀 I’m interested in expanding my skillset.
-- 💞️ I’m looking to collaborate on anything that I can be helpful with.
-- 📫 If you need me for anything just shoot me a message.
+Hello, I’m Dustin McDonnell a passionate developer and upcoming Computer Science graduate.
+
+I'm always looking to improve whether through fun simple projects or ambitious challenges that push my skillset.
+I am particularly interested in data analysis and game developpment as a creative passion.
+
+Feel free to reach out if you want yo chat about projects, ideas or opportunities!
